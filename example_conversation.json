@@ -1,0 +1,14 @@
+[
+    {
+        "role": "user",
+        "content": "Hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "Here is the conversation to summarize above. Please provide a detailed summary following the specified format."
+    }
+]
