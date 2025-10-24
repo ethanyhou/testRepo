@@ -1,0 +1,16 @@
+{
+  "name": "testRepo",
+  "version": "1.0.0",
+  "description": "Job handler with deduplication support",
+  "main": "jobHandler.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "job",
+    "deduplication",
+    "queue"
+  ],
+  "author": "",
+  "license": "ISC"
+}
